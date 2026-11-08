@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "cat-me": "^1.0.3",
+    "dog-me": "^1.0.2"
+  }
+}
